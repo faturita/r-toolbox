@@ -1,0 +1,2 @@
+source("tateti.r")
+playtateti()
